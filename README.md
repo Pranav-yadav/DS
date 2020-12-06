@@ -1,2 +1,2 @@
 # DS
-##Data Structures Implementations, Assignments and Experiments
+## Data Structures - Implementations, Assignments and Experiments
